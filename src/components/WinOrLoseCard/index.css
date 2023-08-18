@@ -1,0 +1,40 @@
+/* Write your code here. */
+.winLoseContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #ffffff33;
+  border-radius: 30px;
+  padding: 85px;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 70px;
+}
+.gameStatus {
+  color: white;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.scoreLabel {
+  color: white;
+  font-size: 50px;
+  margin: 7px;
+}
+.score {
+  color: blue;
+  font-size: 35px;
+}
+.button {
+  color: black;
+  background-color: #ffce27;
+  padding: 5px;
+  border-radius: 10px;
+  outline: none;
+  border-style: none;
+}
+.imageContainer {
+  margin: 50px;
+}

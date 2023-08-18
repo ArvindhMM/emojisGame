@@ -1,0 +1,21 @@
+/* Write your code here. */
+.cardContainerButton {
+  border-radius: 23px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  outline: none;
+
+  background: #ffffff33;
+  border-style: none;
+}
+.emojiImage {
+  height: 80px;
+  width: 80px;
+  margin: 20px;
+}
+.listItem {
+  list-style-type: none;
+  width: 32%;
+}

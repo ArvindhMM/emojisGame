@@ -1,0 +1,19 @@
+/* Write your code here. */
+.gameContainer {
+  height: 95vh;
+  width: 100vw;
+  margin: 0px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.emojisContainer {
+  display: flex;
+  flex-direction: row;
+  width: 70vw;
+  height: 70vh;
+  flex-wrap: wrap;
+  justify-content: center;
+}

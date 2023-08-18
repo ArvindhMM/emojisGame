@@ -1,0 +1,32 @@
+/* Write your code here. */
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+  height: 6vh;
+  width: 100vw;
+  background-color: #9796f0;
+}
+.gamenameAndLogo {
+  display: flex;
+  margin-left: 20px;
+  width: 20vw;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 25px;
+  width: 25px;
+}
+.scoresContainer {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 60px;
+}
+.score {
+  margin-right: 20px;
+}
